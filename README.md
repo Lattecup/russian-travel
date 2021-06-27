@@ -5,4 +5,4 @@
 * CSS3 (Flexbox, Grid Layout, @media)
 * BEM methodology  
 ### Работа доступна по ссылке:
-(https://lattecup.github.io/russian-travel/index.html)
+https://lattecup.github.io/russian-travel/index.html
