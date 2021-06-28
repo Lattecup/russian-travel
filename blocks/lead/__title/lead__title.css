@@ -10,20 +10,20 @@
     color: #FFFFFF;
 }
 
-@media screen and (max-width: 1279px) and (max-width: 1024px) {
+@media screen and (max-width: 1279px) {
     .lead__title {
         max-width: calc(100% - 208px);
     }
 }
 
-@media screen and (max-width: 1023px) and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
     .lead__title {
         max-width: calc(100% - 48px);
         padding-bottom: 32px;
     }
 }
 
-@media screen and (max-width: 767px) and (max-width: 425px) {
+@media screen and (max-width: 767px) {
     .lead__title {
         min-width: 288px;
         padding-bottom: 15px;

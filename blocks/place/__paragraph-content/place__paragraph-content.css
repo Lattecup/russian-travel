@@ -1,10 +1,9 @@
-.place__website {
-    align-self: end;
+.place__paragraph-content {
+    margin: 0 auto;
 }
 
 @media screen and (max-width: 767px) {
-    .place__website {
+    .place__paragraph-content {
         max-width: calc(100% - 32px);
-        margin: 0 16px 0;
     }
 }

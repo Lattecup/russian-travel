@@ -7,7 +7,7 @@
     list-style-type: none;
 }
 
-@media screen and (max-width: 767px) and (max-width: 425px) {
+@media screen and (max-width: 767px) {
     .header__lang-links {
         padding-top: 10px;
     }
