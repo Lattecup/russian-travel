@@ -1,9 +1,11 @@
 .cover__overlay {
     text-decoration: none;
-    padding: 245px 0;
     background: rgb(42, 44, 47, .3);
-    display: block;
     transition: 1s;
+    min-height: 740px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .cover__overlay:hover {
@@ -12,18 +14,18 @@
 
 @media screen and (max-width: 1279px) {
     .cover__overlay {
-        padding: 195px 0;
+        min-height: 640px;
     }
 }
 
 @media screen and (max-width: 1023px) {
     .cover__overlay {
-        padding: 115px 0;
+        min-height: 480px;
     }
 }
 
 @media screen and (max-width: 767px) {
     .cover__overlay {
-        padding: 33px 0;
+        min-height: 200px;
     }
 }
